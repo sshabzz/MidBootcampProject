@@ -1,4 +1,4 @@
-# Mid Bootcamp Project
+# ***Mid Bootcamp Project***
 
 # Traveler Trip Dataset Analysis
 This repository contains code and documentation for analyzing the [Traveler Trip Dataset](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data) on kaggle.
@@ -18,16 +18,7 @@ To run the code in this repository, I used the following:
 
 Python 3.x
 Jupyter Notebook or JupyterLab
-Required Python libraries listed in the requirements.in file
-
-# Usage
-To use this repository, follow these steps:
-
-Clone this repository to your local machine
-Install the required Python libraries by running pip install in your terminal
-Open the Jupyter Notebook or JupyterLab environment
-Navigate to the cloned repository in Jupyter
-Open the analysis.ipynb file to view and run the analysis
+Required Python libraries listed in the requirements.txt file
 
 # Questions
 In this analysis, we will be answering the following questions:
@@ -36,9 +27,15 @@ In this analysis, we will be answering the following questions:
 2. What is the most popular accommodation type among travelers?
 3. What are the most popular transportation type among travelers?
 
+***While doing the analysis I will take preference of gender in to consideration.***
+
+# Conclusion
+*In conclusion, our analysis of the traveler trip dataset using Python has provided valuable insights into the travel patterns and preferences of genders. The results of our analysis suggest that males and females have different travel behaviors when it comes to destination, transportation mode, and accommodation type. By identifying these differences, travel businesses and policymakers can make informed decisions to provide better travel experiences and improve the overall tourism industry.*
+
 # Credits
-This dataset was originally created by KIATTISAK RATTANAPORN on Kaggle. This analysis was conducted by [Shahbaz Mazhar](https://www.linkedin.com/in/shahbaz-mazhar-syed-90853758/)
-With the guidance *Ignacio,* *Lukaz,* *Sandra* and my amazing fellow *classmates*. 
+This dataset was originally created by ***KIATTISAK RATTANAPORN*** on Kaggle. This analysis was conducted by [Shahbaz Mazhar](https://www.linkedin.com/in/shahbaz-mazhar-syed-90853758/)
+With the guidance from ***Ignacio, Lukaz, Sandra*** and my amazing fellow ***classmates***. 
+
 
 
 
