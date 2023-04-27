@@ -37,8 +37,8 @@ In this analysis, we will be answering the following questions:
 3. What are the most popular transportation type among travelers?
 
 # Credits
-This dataset was originally created by KIATTISAK RATTANAPORN on Kaggle. This analysis was conducted by [Shahbaz Mazhar].
-With the guidance of Ignacio, Lukaz, Sandra and my amazing fellow classmates. 
+This dataset was originally created by KIATTISAK RATTANAPORN on Kaggle. This analysis was conducted by [Shahbaz Mazhar](https://www.linkedin.com/in/shahbaz-mazhar-syed-90853758/)
+With the guidance *Ignacio,* *Lukaz,* *Sandra* and my amazing fellow *classmates*. 
 
 
 
